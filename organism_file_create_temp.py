@@ -20,7 +20,7 @@ Created on Wed Oct 19 18:35:18 2016
 def organism_create(organism_number_main,organism_DNA_length_main):
     import random
     import os.path
-    working_dir = 'C:/Users/Joshua/Documents/Coding/Projects/Sequence/Organisms'
+    working_dir = '/mnt/c/Users/Joshua/Documents/Coding/Projects/Sequence/Organisms'
     #n = input('Enter a number of organisms to be made:')
    # n = int(n)
     organism_DNA_length_main = int(organism_DNA_length_main)

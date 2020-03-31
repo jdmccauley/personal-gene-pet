@@ -25,7 +25,7 @@ n = input('Enter number of organisms to make:')
 n = int(n)
 j = input('Enter length of DNA for each organism:')
 j = int(j)
-file_start = '\\organism_'
+file_start = '/organism_'
 file_end = '.txt'
 population = []
 for i in range(0,n):
